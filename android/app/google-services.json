@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1000560745587",
+    "firebase_url": "https://cholen-1b332.firebaseio.com",
+    "project_id": "cholen-1b332",
+    "storage_bucket": "cholen-1b332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000560745587:android:4f7909c25ac3841b",
+        "android_client_info": {
+          "package_name": "com.sojib.cholen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000560745587-fn2g269rr9eoi8e2d081acedp693u1lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMjXoUQtV5p4uVlb0yJVlsauHdXClZvs8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

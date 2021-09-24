@@ -1,0 +1,10 @@
+#Mon Jan 28 01:42:25 BDT 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=H\:\\sojib\\New folder\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.1=H\:\\sojib\\New folder\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.0=H\:\\sojib\\New folder\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
